@@ -1,6 +1,7 @@
 # Reading-Notes
 
 Soy Matias Carrillo, Estudiante de codigo en Enter tech school
+____
 
 ## El Growth Mindset
 *El growth mindset es una forma de pensar y de absorber informacion de una forma la cual te ayuda a aprender mas y ver de manera diferente a tus errores, los obstaculos que te encuentras y el esfuerzo que te toma aprender algo nuevo*
