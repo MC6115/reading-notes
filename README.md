@@ -11,5 +11,5 @@ ___
 - Poder encontrar el valor en el critisismo de otras personas y que puedes aprender sobre el exito de otros
 
 #### Source
-[Articulo: Developers Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+[Articulo: Developers Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset "Growth Mindset")
 
