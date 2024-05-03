@@ -10,3 +10,6 @@ ___
 - Aceptar que el esfuerzo y la practica son necesarios para aprender correctamente
 - Poder encontrar el valor en el critisismo de otras personas y que puedes aprender sobre el exito de otros
 
+#### Source
+[Articulo: Developers Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
