@@ -1,3 +1,3 @@
 # Notas-lectura
 
-Soy MatiasC.
+Soy Matias Carrillo Estudiante de codigo en Enter tech school
