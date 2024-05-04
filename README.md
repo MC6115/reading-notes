@@ -14,4 +14,7 @@ Soy Matias Carrillo, Estudiante de codigo en Enter tech school
 [Articulo: Developers Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset "Growth Mindset")
 
 
+#### Other files
+[aprendiendo-markdown](aprendiendo-markdown.md)
+
 
