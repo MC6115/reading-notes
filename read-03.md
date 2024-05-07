@@ -8,7 +8,7 @@ Un sistema que te permite regresar un archivo o multiples archivos a un estado e
 
 Esto permite correjir y manejar errores en un archivo.
 
-## Typos de Version control
+### Typos de Version control
 Existen 3 typos de version control: Local version control, Centralized version control(**CVCS**) y Distributed version control(**DVCS**). Y se diferencian de uno a otro de la siguente forma.
 1. Local version control
 - Una de las formas mas antiguas de Version control, usa el disco duro de tu computadora para guardar los cambios a los archivos
@@ -19,7 +19,7 @@ Existen 3 typos de version control: Local version control, Centralized version c
 - **DVCS** permite a los clientes crear repositorios que muestran la misma informacion que el servidor y funciona para reemplazar cualquier informacion que se haya perdido,
 - esto permite que programadores colaboren juntos en un solo projecto mas eficazmente.
 
-## Git remote
+#### Git remote
 
 Para colaborar en proyectos de Git, debes interactuar con repositorios remotos,
 que son versiones de un proyecto que residen en línea. Puedes trabajar con varios repositorios,
@@ -27,7 +27,7 @@ para los cuales puedes tener privilegios de edicion o solo de observar. Y se pue
 remotos para enviar información y extraer datos.
 El comando 'git remote' te permite ver los nombres de los repositorios remotos y te da su indicado url, permitiento accederlos facilmente.
 
-### Responde:
+##### Responde:
 1. ¿Qué es el control de versiones?
   - Un sistema que te permite regresar un archivo o multiples archivos a un estado en el cual estubieron antes.
 2. ¿Qué es “clone” en Git?
