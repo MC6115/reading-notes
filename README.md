@@ -16,8 +16,7 @@ ___
 
 ## Otras Notas
 - [Aprendiendo Markdown](aprendiendo-markdown.md)
-- [La computadora del programador](la-computadora-del-programador.md)
 - [Read 02](read02.md)
-- [Read 03](read-03:-versionamiento-local-y-remoto.md)
+- [Read 03](read03.md)
 
 
