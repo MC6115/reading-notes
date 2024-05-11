@@ -17,19 +17,34 @@ y apunte en tus clases o reuniones, utilizando alguna aplicación específica. Y
 
 ### Responde
 
-1. ¿Qué es Markdown?.
--Markdown es un lenguaje de marcado ligero para formatear texto en línea.
-2. ¿Por qué utilizamos Markdown?.
--Para dar formato rápido y sencillo al texto en plataformas en línea.
-3. ¿Qué símbolo creará un encabezado en Markdown?.
--Se utiliza el simbolo asterisco (\*).
-4. ¿Cuántos necesitas para crear el título más grande?.
-  -Solo 1 asterisco.
-5. ¿Cuántos necesitas para crear el título más pequeño?.
-  -Mas asteriscos (hasta 6) para que el titulo se haga mas pequeño.
-6. Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?.
--(\*) Para cursiva, (\*\*) para negrita.
-7. ¿Cómo se crea un vínculo con Markdown?.
--Con el siguebte formato "[Texto del enlace]\(URL)".
-8. ¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?.
--Los simbolos son: "\*", "\+" y "\-"
+1.¿Qué es Markdown?.
+
+- Markdown es un lenguaje de marcado ligero para formatear texto en línea.
+  
+2.¿Por qué utilizamos Markdown?.
+
+- Para dar formato rápido y sencillo al texto en plataformas en línea.
+  
+3.¿Qué símbolo creará un encabezado en Markdown?.
+
+- Se utiliza el simbolo asterisco (\*).
+  
+4.¿Cuántos necesitas para crear el título más grande?.
+
+- Solo 1 asterisco.
+  
+5.¿Cuántos necesitas para crear el título más pequeño?.
+
+- Mas asteriscos (hasta 6) para que el titulo se haga mas pequeño.
+  
+6.Al poner el texto en negrita o cursiva para darle énfasis, ¿qué símbolo es la mejor práctica?.
+
+- (\*) Para cursiva, (\*\*) para negrita.
+  
+7.¿Cómo se crea un vínculo con Markdown?.
+
+- Con el siguebte formato "[Texto del enlace]\(URL)".
+  
+8.¿Cuáles son los tres símbolos que puedes usar para crear una lista desordenada (con viñetas) con Markdown?.
+
+- Los simbolos son: "\*", "\+" y "\-"
