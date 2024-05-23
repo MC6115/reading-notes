@@ -11,4 +11,4 @@ Soy Matias Carrillo, Estudiante de codigo en Enter tech school. Este sitio web c
 - [Read 05: Diseño de paginas web con CSS](read05.md)
 - [Read 06: Paginas web dinámicas con JavaScript](read06.md)
 - [Read 07: Programación con JavaScript](read07.md)
-- [Read 08:](read08.md)
+- [Read 08: Operadores y bucles](read08.md)
