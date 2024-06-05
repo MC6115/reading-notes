@@ -2,5 +2,5 @@
 
 Notas de lectura de todos los cursos de Enter tech
 
-- [102](README.md)
+- [102](README-1.md)
 - [201](README-2.md)
