@@ -5,3 +5,4 @@ Soy Matias Carrillo, Estudiante de codigo en Enter tech school. Este sitio web c
 ## Notas
 
 - [Read01:](read01.md)
+- [Read02](read02.md)
