@@ -6,8 +6,8 @@ Soy Matias Carrillo, Estudiante de código en Enter tech school. Este sitio web 
 
 - [Read01: Introducción a React y los Componentes](read01.md)
 - [Read02: State y Props](read02.md)
-- [Read03](read03.md)
-- [Read04](read04.md)
+- [Read03: Pasar funciones como props](read03.md)
+- [Read04: React y Formularios](read04.md)
 - [Read05](read05.md)
 - [Read06](read05.md)
 - [Read07](read07.md)

@@ -50,3 +50,23 @@
     const combinado = { ...obj1, ...obj2 };
     console.log(combinado);
     ```
+
+## Video
+
+1. En el vídeo, ¿cuál es el primer paso que el desarrollador realiza para pasar funciones entre componentes?
+    - El desarrollador define la función en el componente padre y la pasa al hijo como prop.
+
+2. En tus propias palabras, ¿qué hace la función handleClick?
+    - Maneja eventos de clic y ejecuta una acción (como actualizar el estado)
+
+3. ¿Cómo se puede transmitir un método de un parent component a un child component?
+    - Transmitir método: Pasar el método del parent al child como una prop.
+
+4. ¿Cómo el child component llama a un método que se le envió desde un parent component?
+    - El child llama la función recibida desde el parent accediendo a la prop y ejecutándola.
+
+### Fuentes
+
+- [Renderizado de listas](https://es.react.dev/learn#rendering-lists)
+- [Spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+- [How To Pass A Function As A Prop In React?](https://www.youtube.com/watch?v=n-6i_WGIOKE)
